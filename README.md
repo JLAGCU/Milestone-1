@@ -7,6 +7,8 @@ This project is dedicated to building an inventory application. An inventory hel
 
  Part 2: Sketch a low-fidelity prototype (hand-drawing) of the flow of interactions in your application.
  
+![alt text](https://raw.githubusercontent.com/JLAGCU/Milestone-1/main/Low%20Fidelity%20Prototype.png)
+
  Part 3: Create a high-fidelity prototype of the flow of interactions in your application using built-in design tools supplied in the .NET framework.
 
 ![alt text](https://raw.githubusercontent.com/JLAGCU/Milestone-1/main/Milestone%201%20Windows%20Form.png)
