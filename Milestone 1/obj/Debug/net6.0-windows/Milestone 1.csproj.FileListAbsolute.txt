@@ -1,0 +1,17 @@
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\Milestone 1\Milestone 1\bin\Debug\net6.0-windows\Milestone 1.exe
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\Milestone 1\Milestone 1\bin\Debug\net6.0-windows\Milestone 1.deps.json
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\Milestone 1\Milestone 1\bin\Debug\net6.0-windows\Milestone 1.runtimeconfig.json
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\Milestone 1\Milestone 1\bin\Debug\net6.0-windows\Milestone 1.dll
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\Milestone 1\Milestone 1\bin\Debug\net6.0-windows\Milestone 1.pdb
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\Milestone 1\Milestone 1\obj\Debug\net6.0-windows\Milestone 1.csproj.AssemblyReference.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\Milestone 1\Milestone 1\obj\Debug\net6.0-windows\Milestone_1.Form1.resources
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\Milestone 1\Milestone 1\obj\Debug\net6.0-windows\Milestone 1.csproj.GenerateResource.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\Milestone 1\Milestone 1\obj\Debug\net6.0-windows\Milestone 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\Milestone 1\Milestone 1\obj\Debug\net6.0-windows\Milestone 1.AssemblyInfoInputs.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\Milestone 1\Milestone 1\obj\Debug\net6.0-windows\Milestone 1.AssemblyInfo.cs
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\Milestone 1\Milestone 1\obj\Debug\net6.0-windows\Milestone 1.csproj.CoreCompileInputs.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\Milestone 1\Milestone 1\obj\Debug\net6.0-windows\Milestone 1.dll
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\Milestone 1\Milestone 1\obj\Debug\net6.0-windows\refint\Milestone 1.dll
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\Milestone 1\Milestone 1\obj\Debug\net6.0-windows\Milestone 1.pdb
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\Milestone 1\Milestone 1\obj\Debug\net6.0-windows\Milestone 1.genruntimeconfig.cache
+C:\Users\j4red\OneDrive\Documents\GCU\CST-150\Milestone 1\Milestone 1\obj\Debug\net6.0-windows\ref\Milestone 1.dll
